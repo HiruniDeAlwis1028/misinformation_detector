@@ -1,0 +1,9 @@
+step 01 - run intall_requirements file.
+step 02 - run process data file.
+step 03 - run train model file.
+step 04 - run Ai server file to make module on.
+step 05 - run use chatbot file.
+
+## Important
+- if u need to train model with another data set make sure to save those labaled data in json file and named it as "training_data_processed.json".
+- make sure to follow those steps correctly.
