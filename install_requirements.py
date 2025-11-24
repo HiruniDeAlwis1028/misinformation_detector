@@ -1,7 +1,3 @@
-# =====================
-# 01_install_requirements.py
-# =====================
-
 import subprocess
 import sys
 
